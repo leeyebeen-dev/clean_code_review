@@ -12,7 +12,7 @@
 
 * [1장 - 클린코드](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch1_clean_code.md)
 * [2장 - 의미 있는 이름](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch2_name.md)
-* [3장 - 함수]()
+* [3장 - 함수](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch3_function.md)
 * [4장 - 주석]()
 * [5장 - 형식 맞추기]()
 * [6장 - 객체와 자료 구조]()
