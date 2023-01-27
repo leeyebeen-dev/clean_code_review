@@ -14,7 +14,7 @@
 * [2장 - 의미 있는 이름](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch2_name.md)
 * [3장 - 함수](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch3_function.md)
 * [4장 - 주석](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch4_remark.md)
-* [5장 - 형식 맞추기]()
+* [5장 - 형식 맞추기](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch5_format.md)
 * [6장 - 객체와 자료 구조]()
 * [7장 - 오류 처리]()
 * [8장 - 경계]()
