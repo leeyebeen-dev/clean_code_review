@@ -15,7 +15,7 @@
 * [3장 - 함수](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch3_function.md)
 * [4장 - 주석](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch4_remark.md)
 * [5장 - 형식 맞추기](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch5_format.md)
-* [6장 - 객체와 자료 구조]()
+* [6장 - 객체와 자료 구조](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch6_objectanddatastructure.md)
 * [7장 - 오류 처리]()
 * [8장 - 경계]()
 * [9장 - 단위 테스트]()
