@@ -18,7 +18,7 @@
 * [6장 - 객체와 자료 구조](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch6_objectanddatastructure.md)
 
 * [7장 - 오류 처리](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch7_errorhandling.md)
-* [8장 - 경계]()
+* [8장 - 경계](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch8_boundary.md)
 * [9장 - 단위 테스트]()
 * [10장 - 클래스]()
 * [11장 - 시스템]()
