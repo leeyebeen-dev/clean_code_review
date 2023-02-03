@@ -19,7 +19,7 @@
 
 * [7장 - 오류 처리](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch7_errorhandling.md)
 * [8장 - 경계](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch8_boundary.md)
-* [9장 - 단위 테스트]()
+* [9장 - 단위 테스트](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch9_unittest.md)
 * [10장 - 클래스]()
 * [11장 - 시스템]()
 * [12장 - 창발성]()
