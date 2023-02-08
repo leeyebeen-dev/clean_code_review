@@ -21,7 +21,7 @@
 * [8장 - 경계](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch8_boundary.md)
 * [9장 - 단위 테스트](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch9_unittest.md)
 * [10장 - 클래스](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch10_class.md)
-* [11장 - 시스템]()
+* [11장 - 시스템](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch11_system.md)
 * [12장 - 창발성]()
 * [13장 - 동시성]()
 * [14장 - 점진적인 개선]()
