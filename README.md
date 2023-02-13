@@ -24,7 +24,7 @@
 * [11장 - 시스템](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch11_system.md)
 * [12장 - 창발성](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch12_originality.md)
 * [13장 - 동시성](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch13_concurrency.md)
-* [14장 - 점진적인 개선]()
+* [14장 - 점진적인 개선](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch14_gradualimprovement.md)
 
 <br>
 <br>
