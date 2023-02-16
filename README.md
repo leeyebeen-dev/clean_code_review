@@ -26,6 +26,7 @@
 * [13장 - 동시성](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch13_concurrency.md)
 * [14장 - 점진적인 개선](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch14_gradualimprovement.md)
 * [15장 - JUnit 들여다보기](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch15_junit.md)
+* [16장 - SerialDate 리팩터링](https://github.com/leeyebeen-dev/clean_code_review/blob/main/ch16_refactoring.md)
 
 <br>
 <br>
